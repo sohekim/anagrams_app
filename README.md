@@ -1,9 +1,9 @@
 # Anagram App
-create an Android app for a simple anagram game.
+A complete Android app for a user to play a simple anagram game
 
-## How Anagram app works
+## How I builded the Anagram app 
 * Began with the starter code for the Anagrams workshop 
-* Implemented the algorithm using the data structures: ArrayLists, HashSets, and HashMaps. 
+* Implemented the algorithm using the data structures: ArrayLists, HashSets, and HashMaps 
 
 
 This workshop is part of the Applied CS with Android course:

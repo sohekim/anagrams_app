@@ -1,5 +1,5 @@
 # Anagram App
-A complete Android app for a user to play a simple anagram game
+A completed Android app for the Google Applied CS with Android course. The users can play a simple anagram game.
 
 ## How I builded the Anagram app 
 * Began with the starter code for the Anagrams workshop 
